@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @KyleGashler
-- 🌱 I’m currently learning how to best use Java, Guava, Dropwizard, Dagger and Kafka; however deep down I just want to use typescript for everything...
 - 💞️ I’m looking to collaborate on any interesting problem
 - 📫 How to reach me: gashlerdev@gmail.com
